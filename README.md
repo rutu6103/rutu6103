@@ -6,13 +6,13 @@ Currently open to Data Scientist, Data Analyst, Business Intelligence, and analy
 
 ## What I do
 
-**Machine Learning and Statistics** — Regression, classification, clustering, hypothesis testing, time-series analysis, feature engineering, and model evaluation. Translate statistical results into business language.
+**Machine Learning and Statistics** - Regression, classification, clustering, hypothesis testing, time-series analysis, feature engineering, and model evaluation. Translate statistical results into business language.
 
-**Business Intelligence** — Design and build Power BI reports, semantic models, and DAX measures. Import from PostgreSQL, MySQL, and file-based sources. Publish to Power BI Service with stakeholder access.
+**Business Intelligence** - Design and build Power BI reports, semantic models, and DAX measures. Import from PostgreSQL, MySQL, and file-based sources. Publish to Power BI Service with stakeholder access.
 
-**Data Engineering Foundations** — Python-based ETL, API ingestion, dimensional modeling, SQL analytics, and data-quality validation. Build pipelines that are documented and reproducible.
+**Data Engineering Foundations** - Python-based ETL, API ingestion, dimensional modeling, SQL analytics, and data-quality validation. Build pipelines that are documented and reproducible.
 
-**Applied AI Evaluation** — Prompt and model comparison, LLM output evaluation, taxonomy validation, and structured-tag extraction from unstructured text.
+**Applied AI Evaluation** - Prompt and model comparison, LLM output evaluation, taxonomy validation, and structured-tag extraction from unstructured text.
 
 ## Tech stack
 
@@ -36,15 +36,15 @@ Built and validated Power BI reports, created semantic models, imported data fro
 
 ## Featured projects
 
-**Healthcare Analytics Pipeline** — End-to-end BI and data-engineering project using public synthetic FHIR data. Python extraction and transformation, PostgreSQL dimensional modeling, SQL analytics with CTEs and window functions, data-quality checks, and a five-page Power BI dashboard with city-level drillthrough.
+**Healthcare Analytics Pipeline** - End-to-end BI and data-engineering project using public synthetic FHIR data. Python extraction and transformation, PostgreSQL dimensional modeling, SQL analytics with CTEs and window functions, data-quality checks, and a five-page Power BI dashboard with city-level drillthrough.
 
 `Python · PostgreSQL · SQL · ETL · Dimensional Modeling · Power BI · DAX`
 
-**Credit Customer Segmentation** — Unsupervised machine learning project comparing K-Means, Hierarchical Clustering, and DBSCAN on the South German Credit dataset, with post-hoc credit-risk interpretation.
+**Credit Customer Segmentation** - Unsupervised machine learning project comparing K-Means, Hierarchical Clustering, and DBSCAN on the South German Credit dataset, with post-hoc credit-risk interpretation.
 
 `Clustering · Unsupervised ML · Python · scikit-learn · Customer Analytics`
 
-**Statistical Modeling of Product Choice** — Research-oriented statistical modeling project examining factors associated with product choice. Emphasis on interpretable analysis, responsible communication, and evidence-based conclusions.
+**Statistical Modeling of Product Choice** - Research-oriented statistical modeling project examining factors associated with product choice. Emphasis on interpretable analysis, responsible communication, and evidence-based conclusions.
 
 `Statistical Modeling · Research · Hypothesis Testing · R · Interpretability`
 
